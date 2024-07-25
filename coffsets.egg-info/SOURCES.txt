@@ -1,0 +1,7 @@
+setup.py
+xyz.cpp
+coffsets.egg-info/PKG-INFO
+coffsets.egg-info/SOURCES.txt
+coffsets.egg-info/dependency_links.txt
+coffsets.egg-info/requires.txt
+coffsets.egg-info/top_level.txt

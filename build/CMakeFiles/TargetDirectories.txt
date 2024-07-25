@@ -1,0 +1,4 @@
+/home/tempest/repo/coffset/build/CMakeFiles/main.dir
+/home/tempest/repo/coffset/build/CMakeFiles/test.dir
+/home/tempest/repo/coffset/build/CMakeFiles/edit_cache.dir
+/home/tempest/repo/coffset/build/CMakeFiles/rebuild_cache.dir

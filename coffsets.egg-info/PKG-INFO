@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: coffsets
+Version: 0.0.1
+Summary: cython offset reader for mda
+Author: ke xiong
+Author-email: 635261081@qq.com
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
